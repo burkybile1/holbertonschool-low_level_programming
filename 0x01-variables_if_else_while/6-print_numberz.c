@@ -2,7 +2,7 @@
 
 
 /**
- * main - will print the alphabet in lowercase
+ * main - print numbers using putchar
  * followed by a new line.
  *
  * Return: Always (Success)
